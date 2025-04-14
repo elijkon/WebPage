@@ -8,8 +8,8 @@ document.addEventListener("DOMContentLoaded", function () {
             const item = data.find(item => item.id === itemId);
             if (item) {
                 // Update visible page content
-                document.getElementById("item-title").innerText = item.title;
-                document.getElementById("item-image").src = `images/${item.image}`;
+                document.getElementById("item-model").innerText = item.Model;
+                document.getElementById("item-image").src = `images/${item.File Name (picture name)}`;
                 document.getElementById("item-description").innerText = item.description;
                 document.getElementById("item-brand").innerText = item.brand;
                 document.getElementById("item-category").innerText = item.category;
