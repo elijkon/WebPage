@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 // Update visible page content
                 document.getElementById("item-model").innerText = item.Model;
                 document.getElementById("item-image").src = `images/${item.File Name (picture name)}`;
-                document.getElementById("item-description").innerText = item.description;
+                document.getElementById("item-Manufacturer").innerText = item.Manufacturer;
                 document.getElementById("item-brand").innerText = item.brand;
                 document.getElementById("item-category").innerText = item.category;
 
