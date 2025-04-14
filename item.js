@@ -9,20 +9,19 @@ document.addEventListener("DOMContentLoaded", function () {
             if (item) {
                 // Update visible page content
                 document.getElementById("item-model").innerText = item.Model;
-                document.getElementById("item-image").src = `images/${item.File Name (picture name)}`;
+                document.getElementById("item-image").src = `images/${item.images}`;
                 document.getElementById("item-Manufacturer").innerText = item.Manufacturer;
-                document.getElementById("item-brand").innerText = item.brand;
-                document.getElementById("item-category").innerText = item.category;
+                document.getElementById("item-engine").innerText = item.Engine_Type;
+                document.getElementById("item-color").innerText = item.Color;
+                document.getElementById("item-0to60").innerText = item.sixty;
+
 
                 // Create JSON-LD metadata
                 const jsonLd = {
                     "@context": "https://schema.org/",
                     "@type": "Product",
-                    "name": item.title,
-                    "image": `images/${item.image}`,
-                    "description": item.description,
-                    "brand": item.brand,
-                    "category": item.category
+                    "model": item.Model,
+                    "manufacturer": item.Manufacturer
                 };
 
                 // Insert JSON-LD into the <head> of the document
