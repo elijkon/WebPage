@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
             const container = document.getElementById("collection"); // Find the container in HTML
             data.forEach(item => { // Loop through each item in the JSON file
                 let div = document.createElement("div"); // Create a new div for each item
+                div.classList.add("car-card"); // <-- Add this class
                 div.innerHTML = `
                     <h2>${item.Model}</h2>
                     <p>${item.Manufacturer}</p>
