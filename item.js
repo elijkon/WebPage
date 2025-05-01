@@ -16,6 +16,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 document.getElementById("item-engine").innerText = item.Engine_Type;
                 document.getElementById("item-color").innerText = item.Color;
                 document.getElementById("item-0to60").innerText = item.sixty;
+                document.getElementById("item-description").innerText = item.description;
+                
 
 
                 // Create JSON-LD metadata
