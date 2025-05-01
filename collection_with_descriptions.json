@@ -1,0 +1,652 @@
+[
+    {
+        "Model": "M4 Competition",
+        "Manufacturer": "BMW",
+        "Engine_Type": "twin-turbocharged 3.0-liter inline-six",
+        "sixty": "2.8 seconds",
+        "Color": "Black",
+        "images": "carbongrillm4.jpg",
+        "id": "item0",
+        "description": "The Black BMW M4 Competition is powered by a twin-turbocharged 3.0-liter inline-six. It can accelerate from 0 to 60 mph in 2.8 seconds."
+    },
+    {
+        "Model": "718 Spyder",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter flat-six",
+        "sixty": "3.4 seconds",
+        "Color": "Red",
+        "images": "redspyder.jpg",
+        "id": "item1",
+        "description": "The Red Porsche 718 Spyder is powered by a 4.0-liter flat-six. It can accelerate from 0 to 60 mph in 3.4 seconds."
+    },
+    {
+        "Model": "Huracan",
+        "Manufacturer": "Lamborghini",
+        "Engine_Type": "5.2-liter V10",
+        "sixty": "2.8 seconds",
+        "Color": "White",
+        "images": "diamondLam.jpg",
+        "id": "item2",
+        "description": "The White Lamborghini Huracan is powered by a 5.2-liter V10. It can accelerate from 0 to 60 mph in 2.8 seconds."
+    },
+    {
+        "Model": "Murcielago",
+        "Manufacturer": "Lamborghini",
+        "Engine_Type": "6.5-liter V12",
+        "sixty": "3.8 seconds",
+        "Color": "Black",
+        "images": "sidemurc.jpg",
+        "id": "item3",
+        "description": "The Black Lamborghini Murcielago is powered by a 6.5-liter V12. It can accelerate from 0 to 60 mph in 3.8 seconds."
+    },
+    {
+        "Model": "Chiron Pur Sport",
+        "Manufacturer": "Bugatti",
+        "Engine_Type": "8.0-liter quad-turbocharged W16 engine",
+        "sixty": "2.3 seconds",
+        "Color": "Yellow",
+        "images": "frontBugatti.jpg",
+        "id": "item4",
+        "description": "The Yellow Bugatti Chiron Pur Sport is powered by a 8.0-liter quad-turbocharged W16 engine. It can accelerate from 0 to 60 mph in 2.3 seconds."
+    },
+    {
+        "Model": "Chiron Pur Sport",
+        "Manufacturer": "Bugatti",
+        "Engine_Type": "8.0-liter quad-turbocharged W16 engine",
+        "sixty": "2.3 seconds",
+        "Color": "Yellow",
+        "images": "bugattiside.jpg",
+        "id": "item5",
+        "description": "The Yellow Bugatti Chiron Pur Sport is powered by a 8.0-liter quad-turbocharged W16 engine. It can accelerate from 0 to 60 mph in 2.3 seconds."
+    },
+    {
+        "Model": "Murcielago",
+        "Manufacturer": "Lamborghini",
+        "Engine_Type": "6.5-liter V12",
+        "sixty": "3.8 seconds",
+        "Color": "Black",
+        "images": "murc.jpg",
+        "id": "item6",
+        "description": "The Black Lamborghini Murcielago is powered by a 6.5-liter V12. It can accelerate from 0 to 60 mph in 3.8 seconds."
+    },
+    {
+        "Model": "911 GT3",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter naturally aspirated flat-six",
+        "sixty": "3.2 seconds",
+        "Color": "White",
+        "images": "whiteW_RedStripegt3.jpg",
+        "id": "item7",
+        "description": "The White Porsche 911 GT3 is powered by a 4.0-liter naturally aspirated flat-six. It can accelerate from 0 to 60 mph in 3.2 seconds."
+    },
+    {
+        "Model": "GT",
+        "Manufacturer": "Ford",
+        "Engine_Type": "3.5-liter twin-turbocharged EcoBoost V6",
+        "sixty": "3.0 seconds",
+        "Color": "Blue",
+        "images": "fordgt.jpg",
+        "id": "item8",
+        "description": "The Blue Ford GT is powered by a 3.5-liter twin-turbocharged EcoBoost V6. It can accelerate from 0 to 60 mph in 3.0 seconds."
+    },
+    {
+        "Model": "Aventador SVJ",
+        "Manufacturer": "Lamborghini",
+        "Engine_Type": "6.5-liter naturally aspirated V12",
+        "sixty": "2.5 seconds",
+        "Color": "Green",
+        "images": "greenSVJ.jpg",
+        "id": "item9",
+        "description": "The Green Lamborghini Aventador SVJ is powered by a 6.5-liter naturally aspirated V12. It can accelerate from 0 to 60 mph in 2.5 seconds."
+    },
+    {
+        "Model": "718 GT4 RS",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter naturally aspirated flat-six",
+        "sixty": "3.2 seconds",
+        "Color": "Blue",
+        "images": "gt4rs_aston_911.jpg",
+        "id": "item10",
+        "description": "The Blue Porsche 718 GT4 RS is powered by a 4.0-liter naturally aspirated flat-six. It can accelerate from 0 to 60 mph in 3.2 seconds."
+    },
+    {
+        "Model": "Vantage",
+        "Manufacturer": "Aston Martin",
+        "Engine_Type": "4.0-liter twin-turbocharged V8",
+        "sixty": "3.2 seconds",
+        "Color": "Green",
+        "images": "gt4rs_aston_911.jpg",
+        "id": "item11",
+        "description": "The Green Aston Martin Vantage is powered by a 4.0-liter twin-turbocharged V8. It can accelerate from 0 to 60 mph in 3.2 seconds."
+    },
+    {
+        "Model": "911 Carrera",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "3.0-liter twin-turbocharged flat-six",
+        "sixty": "4.0 seconds",
+        "Color": "Grey",
+        "images": "gt4rs_aston_911.jpg",
+        "id": "item12",
+        "description": "The Grey Porsche 911 Carrera is powered by a 3.0-liter twin-turbocharged flat-six. It can accelerate from 0 to 60 mph in 4.0 seconds."
+    },
+    {
+        "Model": "718 GT4 RS",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter naturally aspirated flat-six",
+        "sixty": "3.2 seconds",
+        "Color": "Tan",
+        "images": "tanGT4rs.jpg",
+        "id": "item13",
+        "description": "The Tan Porsche 718 GT4 RS is powered by a 4.0-liter naturally aspirated flat-six. It can accelerate from 0 to 60 mph in 3.2 seconds."
+    },
+    {
+        "Model": "SF90",
+        "Manufacturer": "Ferrari",
+        "Engine_Type": "4.0-liter twin-turbocharged V8 with three electric motors",
+        "sixty": "2.0 seconds",
+        "Color": "Red",
+        "images": "sf90.jpg",
+        "id": "item14",
+        "description": "The Red Ferrari SF90 is powered by a 4.0-liter twin-turbocharged V8 with three electric motors. It can accelerate from 0 to 60 mph in 2.0 seconds."
+    },
+    {
+        "Model": "M4 Competition",
+        "Manufacturer": "BMW",
+        "Engine_Type": "twin-turbocharged 3.0-liter inline-six",
+        "sixty": "3.8 seconds",
+        "Color": "Grey",
+        "images": "m4.jpg",
+        "id": "item15",
+        "description": "The Grey BMW M4 Competition is powered by a twin-turbocharged 3.0-liter inline-six. It can accelerate from 0 to 60 mph in 3.8 seconds."
+    },
+    {
+        "Model": "Sterrato",
+        "Manufacturer": "Lamborghini",
+        "Engine_Type": "5.2-liter naturally aspirated V10",
+        "sixty": "3.3 seconds",
+        "Color": "White",
+        "images": "sterato.jpg",
+        "id": "item16",
+        "description": "The White Lamborghini Sterrato is powered by a 5.2-liter naturally aspirated V10. It can accelerate from 0 to 60 mph in 3.3 seconds."
+    },
+    {
+        "Model": "Centenario",
+        "Manufacturer": "Lamborghini",
+        "Engine_Type": "6.5-liter naturally aspirated V12",
+        "sixty": "2.8 seconds",
+        "Color": "Yellow",
+        "images": "centero.jpg",
+        "id": "item17",
+        "description": "The Yellow Lamborghini Centenario is powered by a 6.5-liter naturally aspirated V12. It can accelerate from 0 to 60 mph in 2.8 seconds."
+    },
+    {
+        "Model": "Countach",
+        "Manufacturer": "Lamborghini",
+        "Engine_Type": "4.8-liter naturally aspirated V12",
+        "sixty": "2.8 seconds",
+        "Color": "White",
+        "images": "countach.jpg",
+        "id": "item18",
+        "description": "The White Lamborghini Countach is powered by a 4.8-liter naturally aspirated V12. It can accelerate from 0 to 60 mph in 2.8 seconds."
+    },
+    {
+        "Model": "Technica",
+        "Manufacturer": "Lamborghini",
+        "Engine_Type": "5.2-liter naturally aspirated V10",
+        "sixty": "3.2 seconds",
+        "Color": "Orange",
+        "images": "technica.jpg",
+        "id": "item19",
+        "description": "The Orange Lamborghini Technica is powered by a 5.2-liter naturally aspirated V10. It can accelerate from 0 to 60 mph in 3.2 seconds."
+    },
+    {
+        "Model": "720s",
+        "Manufacturer": "McLaren",
+        "Engine_Type": "4.0-liter twin-turbocharged V8",
+        "sixty": "2.8 seconds",
+        "Color": "Black",
+        "images": "720s.jpg",
+        "id": "item20",
+        "description": "The Black McLaren 720s is powered by a 4.0-liter twin-turbocharged V8. It can accelerate from 0 to 60 mph in 2.8 seconds."
+    },
+    {
+        "Model": "911 GT3 RS",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter naturally aspirated flat-six",
+        "sixty": "3.0 seconds",
+        "Color": "White",
+        "images": "whtiegt3rs.jpg",
+        "id": "item21",
+        "description": "The White Porsche 911 GT3 RS is powered by a 4.0-liter naturally aspirated flat-six. It can accelerate from 0 to 60 mph in 3.0 seconds."
+    },
+    {
+        "Model": "RS",
+        "Manufacturer": "Ultima",
+        "Engine_Type": "V8",
+        "sixty": "3.2 seconds",
+        "Color": "Grey",
+        "images": "ultima.jpg",
+        "id": "item22",
+        "description": "The Grey Ultima RS is powered by a V8. It can accelerate from 0 to 60 mph in 3.2 seconds."
+    },
+    {
+        "Model": "911 GT3 RS",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter naturally aspirated flat-six",
+        "sixty": "3.0 seconds",
+        "Color": "Red",
+        "images": "redgt3rs.jpg",
+        "id": "item23",
+        "description": "The Red Porsche 911 GT3 RS is powered by a 4.0-liter naturally aspirated flat-six. It can accelerate from 0 to 60 mph in 3.0 seconds."
+    },
+    {
+        "Model": "Utopia ",
+        "Manufacturer": "Pagani",
+        "Engine_Type": "6.0-liter twin-turbocharged V12",
+        "sixty": "2.9 seconds",
+        "Color": "Yellow",
+        "images": "paganiUtopia.jpg",
+        "id": "item24",
+        "description": "The Yellow Pagani Utopia  is powered by a 6.0-liter twin-turbocharged V12. It can accelerate from 0 to 60 mph in 2.9 seconds."
+    },
+    {
+        "Model": "Panamera",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "2.9-liter twin-turbo V6",
+        "sixty": "2.9 seconds",
+        "Color": "Grey",
+        "images": "panemara.jpg",
+        "id": "item25",
+        "description": "The Grey Porsche Panamera is powered by a 2.9-liter twin-turbo V6. It can accelerate from 0 to 60 mph in 2.9 seconds."
+    },
+    {
+        "Model": "RWB 911 Carrera",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "3.0-liter twin-turbocharged flat-six",
+        "sixty": "4.5 seconds",
+        "Color": "White",
+        "images": "whiteRWB.jpg",
+        "id": "item26",
+        "description": "The White Porsche RWB 911 Carrera is powered by a 3.0-liter twin-turbocharged flat-six. It can accelerate from 0 to 60 mph in 4.5 seconds."
+    },
+    {
+        "Model": "911 GT3 RS",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter naturally aspirated flat-six",
+        "sixty": "3.0 seconds",
+        "Color": "Orange",
+        "images": "orangegt3rs.jpg",
+        "id": "item27",
+        "description": "The Orange Porsche 911 GT3 RS is powered by a 4.0-liter naturally aspirated flat-six. It can accelerate from 0 to 60 mph in 3.0 seconds."
+    },
+    {
+        "Model": "911 Carrera",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "3.0-liter twin-turbocharged flat-six",
+        "sixty": "4.0 seconds",
+        "Color": "Silver",
+        "images": "rwb.jpg",
+        "id": "item28",
+        "description": "The Silver Porsche 911 Carrera is powered by a 3.0-liter twin-turbocharged flat-six. It can accelerate from 0 to 60 mph in 4.0 seconds."
+    },
+    {
+        "Model": "911 GT3 RS",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter naturally aspirated flat-six",
+        "sixty": "3.0 seconds",
+        "Color": "Black",
+        "images": "pooriGts3rs.jpg",
+        "id": "item29",
+        "description": "The Black Porsche 911 GT3 RS is powered by a 4.0-liter naturally aspirated flat-six. It can accelerate from 0 to 60 mph in 3.0 seconds."
+    },
+    {
+        "Model": "911 GT3 RS",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter naturally aspirated flat-six",
+        "sixty": "3.0 seconds",
+        "Color": "Orange",
+        "images": "gt3rs_bronco.jpg",
+        "id": "item30",
+        "description": "The Orange Porsche 911 GT3 RS is powered by a 4.0-liter naturally aspirated flat-six. It can accelerate from 0 to 60 mph in 3.0 seconds."
+    },
+    {
+        "Model": "Bronco",
+        "Manufacturer": "Ford",
+        "Engine_Type": "2.7-liter twin-turbo V6",
+        "sixty": "6.0 seconds",
+        "Color": "Grey",
+        "images": "gt3rs_bronco.jpg",
+        "id": "item31",
+        "description": "The Grey Ford Bronco is powered by a 2.7-liter twin-turbo V6. It can accelerate from 0 to 60 mph in 6.0 seconds."
+    },
+    {
+        "Model": "718 GT4 RS",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter naturally aspirated flat-six",
+        "sixty": "3.2 seconds",
+        "Color": "White",
+        "images": "w_b718gt4rs.jpg",
+        "id": "item32",
+        "description": "The White Porsche 718 GT4 RS is powered by a 4.0-liter naturally aspirated flat-six. It can accelerate from 0 to 60 mph in 3.2 seconds."
+    },
+    {
+        "Model": "R8 GT",
+        "Manufacturer": "Audi",
+        "Engine_Type": "5.2-liter naturally aspirated V10",
+        "sixty": "3.4 seconds",
+        "Color": "Black",
+        "images": "blackR8GT.jpg",
+        "id": "item33",
+        "description": "The Black Audi R8 GT is powered by a 5.2-liter naturally aspirated V10. It can accelerate from 0 to 60 mph in 3.4 seconds."
+    },
+    {
+        "Model": "911 GT3 RS",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter naturally aspirated flat-six",
+        "sixty": "3.0 seconds",
+        "Color": "Green",
+        "images": "greenGT4rs.jpg",
+        "id": "item34",
+        "description": "The Green Porsche 911 GT3 RS is powered by a 4.0-liter naturally aspirated flat-six. It can accelerate from 0 to 60 mph in 3.0 seconds."
+    },
+    {
+        "Model": "M3 Competition",
+        "Manufacturer": "BMW",
+        "Engine_Type": "3.0-liter twin-turbo inline-6",
+        "sixty": "3.8 seconds",
+        "Color": "Grey",
+        "images": "m3_gts.jpg",
+        "id": "item35",
+        "description": "The Grey BMW M3 Competition is powered by a 3.0-liter twin-turbo inline-6. It can accelerate from 0 to 60 mph in 3.8 seconds."
+    },
+    {
+        "Model": "911 Carrera GTS",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "3.0-liter twin-turbo flat-6",
+        "sixty": "3.1 seconds",
+        "Color": "Grey",
+        "images": "m3_gts.jpg",
+        "id": "item36",
+        "description": "The Grey Porsche 911 Carrera GTS is powered by a 3.0-liter twin-turbo flat-6. It can accelerate from 0 to 60 mph in 3.1 seconds."
+    },
+    {
+        "Model": "718 GT4 RS",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter naturally aspirated flat-six",
+        "sixty": "3.2 seconds",
+        "Color": "Blue",
+        "images": "blueGT4_718.jpg",
+        "id": "item37",
+        "description": "The Blue Porsche 718 GT4 RS is powered by a 4.0-liter naturally aspirated flat-six. It can accelerate from 0 to 60 mph in 3.2 seconds."
+    },
+    {
+        "Model": "718 Cayman ",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "3.0-liter twin-turbo flat-6",
+        "sixty": "3.7 seconds",
+        "Color": "White",
+        "images": "blueGT4_718.jpg",
+        "id": "item38",
+        "description": "The White Porsche 718 Cayman  is powered by a 3.0-liter twin-turbo flat-6. It can accelerate from 0 to 60 mph in 3.7 seconds."
+    },
+    {
+        "Model": "718 Spyder",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter flat-6",
+        "sixty": "3.4 seconds",
+        "Color": "Blue",
+        "images": "718spyder.jpg",
+        "id": "item39",
+        "description": "The Blue Porsche 718 Spyder is powered by a 4.0-liter flat-6. It can accelerate from 0 to 60 mph in 3.4 seconds."
+    },
+    {
+        "Model": "458 Speciale",
+        "Manufacturer": "Ferrari",
+        "Engine_Type": "4.5-liter naturally aspirated V8",
+        "sixty": "3.0 seconds",
+        "Color": "Red",
+        "images": "458stripe.jpg",
+        "id": "item40",
+        "description": "The Red Ferrari 458 Speciale is powered by a 4.5-liter naturally aspirated V8. It can accelerate from 0 to 60 mph in 3.0 seconds."
+    },
+    {
+        "Model": "718 GT4 RS",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter naturally aspirated flat-six",
+        "sixty": "3.2 seconds",
+        "Color": "Purple",
+        "images": "purple718.jpg",
+        "id": "item41",
+        "description": "The Purple Porsche 718 GT4 RS is powered by a 4.0-liter naturally aspirated flat-six. It can accelerate from 0 to 60 mph in 3.2 seconds."
+    },
+    {
+        "Model": "911 GT3 RS",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter naturally aspirated flat-six",
+        "sixty": "3.0 seconds",
+        "Color": "Grey",
+        "images": "gts3rs_gts.jpg",
+        "id": "item42",
+        "description": "The Grey Porsche 911 GT3 RS is powered by a 4.0-liter naturally aspirated flat-six. It can accelerate from 0 to 60 mph in 3.0 seconds."
+    },
+    {
+        "Model": "911 S/T",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter flat-6",
+        "sixty": "3.5 seconds",
+        "Color": "Grey",
+        "images": "gts3rs_gts.jpg",
+        "id": "item43",
+        "description": "The Grey Porsche 911 S/T is powered by a 4.0-liter flat-6. It can accelerate from 0 to 60 mph in 3.5 seconds."
+    },
+    {
+        "Model": "911 GT3 RS",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter naturally aspirated flat-six",
+        "sixty": "3.0 seconds",
+        "Color": "Orange",
+        "images": "gt3rs991.jpg",
+        "id": "item44",
+        "description": "The Orange Porsche 911 GT3 RS is powered by a 4.0-liter naturally aspirated flat-six. It can accelerate from 0 to 60 mph in 3.0 seconds."
+    },
+    {
+        "Model": "NSX",
+        "Manufacturer": "Acura",
+        "Engine_Type": "3.5-liter twin-turbo V6 hybrid",
+        "sixty": "2.9 seconds",
+        "Color": "Blue",
+        "images": "nsx_rs6_x5.jpg",
+        "id": "item45",
+        "description": "The Blue Acura NSX is powered by a 3.5-liter twin-turbo V6 hybrid. It can accelerate from 0 to 60 mph in 2.9 seconds."
+    },
+    {
+        "Model": "RS6",
+        "Manufacturer": "Audi",
+        "Engine_Type": "4.0-liter twin-turbo V8",
+        "sixty": "3.0 seconds",
+        "Color": "Grey",
+        "images": "nsx_rs6_x5.jpg",
+        "id": "item46",
+        "description": "The Grey Audi RS6 is powered by a 4.0-liter twin-turbo V8. It can accelerate from 0 to 60 mph in 3.0 seconds."
+    },
+    {
+        "Model": "X5 ",
+        "Manufacturer": "BMW",
+        "Engine_Type": "4.4-liter twin-turbo V8",
+        "sixty": "3.7 seconds",
+        "Color": "Black",
+        "images": "nsx_rs6_x5.jpg",
+        "id": "item47",
+        "description": "The Black BMW X5  is powered by a 4.4-liter twin-turbo V8. It can accelerate from 0 to 60 mph in 3.7 seconds."
+    },
+    {
+        "Model": "R8",
+        "Manufacturer": "Audi",
+        "Engine_Type": "5.2-liter V10",
+        "sixty": "3.3 seconds",
+        "Color": "Grey",
+        "images": "greyR8.jpg",
+        "id": "item48",
+        "description": "The Grey Audi R8 is powered by a 5.2-liter V10. It can accelerate from 0 to 60 mph in 3.3 seconds."
+    },
+    {
+        "Model": "M5 Competition",
+        "Manufacturer": "BMW",
+        "Engine_Type": "4.4-liter twin-turbo V8",
+        "sixty": "3.1 seconds",
+        "Color": "Green",
+        "images": "greenM5.jpg",
+        "id": "item49",
+        "description": "The Green BMW M5 Competition is powered by a 4.4-liter twin-turbo V8. It can accelerate from 0 to 60 mph in 3.1 seconds."
+    },
+    {
+        "Model": "488 Pista",
+        "Manufacturer": "Ferrari",
+        "Engine_Type": "3.9-liter twin-turbo V8",
+        "sixty": "2.8 seconds",
+        "Color": "Green",
+        "images": "488pista_gt2rs.jpg",
+        "id": "item50",
+        "description": "The Green Ferrari 488 Pista is powered by a 3.9-liter twin-turbo V8. It can accelerate from 0 to 60 mph in 2.8 seconds."
+    },
+    {
+        "Model": "911 GT2 RS",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "3.8-liter twin-turbo flat-6",
+        "sixty": "2.7 seconds",
+        "Color": "Yellow",
+        "images": "488pista_gt2rs.jpg",
+        "id": "item51",
+        "description": "The Yellow Porsche 911 GT2 RS is powered by a 3.8-liter twin-turbo flat-6. It can accelerate from 0 to 60 mph in 2.7 seconds."
+    },
+    {
+        "Model": "911 GT 4R",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter flat-6",
+        "sixty": "3.2 seconds",
+        "Color": "White",
+        "images": "911track.jpg",
+        "id": "item52",
+        "description": "The White Porsche 911 GT 4R is powered by a 4.0-liter flat-6. It can accelerate from 0 to 60 mph in 3.2 seconds."
+    },
+    {
+        "Model": "458 Speciale",
+        "Manufacturer": "Ferrari",
+        "Engine_Type": "458 Speciale",
+        "sixty": "3.0 seconds",
+        "Color": "Red",
+        "images": "458spec.jpg",
+        "id": "item53",
+        "description": "The Red Ferrari 458 Speciale is powered by a 458 Speciale. It can accelerate from 0 to 60 mph in 3.0 seconds."
+    },
+    {
+        "Model": "RS6",
+        "Manufacturer": "Audi",
+        "Engine_Type": "4.0-liter twin-turbo V8",
+        "sixty": "3.0 seconds",
+        "Color": "Grey",
+        "images": "rs6.jpg",
+        "id": "item54",
+        "description": "The Grey Audi RS6 is powered by a 4.0-liter twin-turbo V8. It can accelerate from 0 to 60 mph in 3.0 seconds."
+    },
+    {
+        "Model": "M3 Competition",
+        "Manufacturer": "BMW",
+        "Engine_Type": "3.0-liter twin-turbo inline-6",
+        "sixty": "3.8 seconds",
+        "Color": "Grey",
+        "images": "greyCarbonM3.jpg",
+        "id": "item55",
+        "description": "The Grey BMW M3 Competition is powered by a 3.0-liter twin-turbo inline-6. It can accelerate from 0 to 60 mph in 3.8 seconds."
+    },
+    {
+        "Model": "812 Superfast",
+        "Manufacturer": "Ferrari",
+        "Engine_Type": "6.5-liter V12",
+        "sixty": "2.8 seconds",
+        "Color": "White",
+        "images": "superfast.jpg",
+        "id": "item56",
+        "description": "The White Ferrari 812 Superfast is powered by a 6.5-liter V12. It can accelerate from 0 to 60 mph in 2.8 seconds."
+    },
+    {
+        "Model": "911 S/T",
+        "Manufacturer": "Porsche",
+        "Engine_Type": "4.0-liter flat-6",
+        "sixty": "3.5 seconds",
+        "Color": "Grey",
+        "images": "grey911gts.jpg",
+        "id": "item57",
+        "description": "The Grey Porsche 911 S/T is powered by a 4.0-liter flat-6. It can accelerate from 0 to 60 mph in 3.5 seconds."
+    },
+    {
+        "Model": "Zonda F",
+        "Manufacturer": "Pagani",
+        "Engine_Type": "7.3-liter naturally aspirated V12",
+        "sixty": "3.5 seconds",
+        "Color": "White",
+        "images": "zondaR.jpg",
+        "id": "item58",
+        "description": "The White Pagani Zonda F is powered by a 7.3-liter naturally aspirated V12. It can accelerate from 0 to 60 mph in 3.5 seconds."
+    },
+    {
+        "Model": "R8 GT",
+        "Manufacturer": "Audi",
+        "Engine_Type": "5.2-liter V10",
+        "sixty": "3.4 seconds",
+        "Color": "Black",
+        "images": "r8gt.jpg",
+        "id": "item59",
+        "description": "The Black Audi R8 GT is powered by a 5.2-liter V10. It can accelerate from 0 to 60 mph in 3.4 seconds."
+    },
+    {
+        "Model": "Huayra Bc",
+        "Manufacturer": "Pagani",
+        "Engine_Type": "6.0-liter twin-turbo V12",
+        "sixty": "2.7 seconds",
+        "Color": "White",
+        "images": "zonda.jpg",
+        "id": "item60",
+        "description": "The White Pagani Huayra Bc is powered by a 6.0-liter twin-turbo V12. It can accelerate from 0 to 60 mph in 2.7 seconds."
+    },
+    {
+        "Model": "R8",
+        "Manufacturer": "Audi",
+        "Engine_Type": "6.0-liter twin-turbo V12",
+        "sixty": "3.3 seconds",
+        "Color": "Black",
+        "images": "2R8.jpg",
+        "id": "item61",
+        "description": "The Black Audi R8 is powered by a 6.0-liter twin-turbo V12. It can accelerate from 0 to 60 mph in 3.3 seconds."
+    },
+    {
+        "Model": "R8",
+        "Manufacturer": "Audi",
+        "Engine_Type": "6.0-liter twin-turbo V12",
+        "sixty": "3.3 seconds",
+        "Color": "Black",
+        "images": "2R8.jpg",
+        "id": "item62",
+        "description": "The Black Audi R8 is powered by a 6.0-liter twin-turbo V12. It can accelerate from 0 to 60 mph in 3.3 seconds."
+    },
+    {
+        "Model": "F40",
+        "Manufacturer": "Ferrari",
+        "Engine_Type": "2.9-liter twin-turbo V8",
+        "sixty": "4.0 seconds",
+        "Color": "Red",
+        "images": "F40.jpg",
+        "id": "item63",
+        "description": "The Red Ferrari F40 is powered by a 2.9-liter twin-turbo V8. It can accelerate from 0 to 60 mph in 4.0 seconds."
+    },
+    {
+        "Model": "M3 Competition",
+        "Manufacturer": "BMW",
+        "Engine_Type": "3.0-liter twin-turbo inline-6",
+        "sixty": "3.8 seconds",
+        "Color": "Green",
+        "images": "green_m3.jpg",
+        "id": "item64",
+        "description": "The Green BMW M3 Competition is powered by a 3.0-liter twin-turbo inline-6. It can accelerate from 0 to 60 mph in 3.8 seconds."
+    }
+]
