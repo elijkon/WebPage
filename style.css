@@ -1,11 +1,15 @@
 body {
-    font-family: "Times New Roman", Times, serif;
-    background-color: red;
+    font-family: 'Courier New', monospace;
+    background-color: black;
     text-align: center;
 }
 
 h1 {
     color: darkblue;
+	
+}
+p {
+  color: gray;
 }
 #collection {
     display: flex;
